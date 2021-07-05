@@ -43,3 +43,6 @@ p{
 #about-para{
     padding-right: 102px;
 }
+.recipie-half-width img{
+    width: 50%;
+}
