@@ -3,15 +3,20 @@ body{
     padding: 0px;
     font-family: 'Poppins', sans-serif;
 }
-.top-banner{
+section{
     display: flex;
 }
 .half-width{
     width: 50%;
     padding: 10px 40px;
 }
+.half-width img{
+    width: 50%;
+    display: block;
+    margin: 0 auto;
+}
 h1{
-    font-size: 65px;
+    font-size: 40px;
     color:#575757;
 }
 p{
@@ -23,4 +28,7 @@ p{
     background-image: linear-gradient(#FC964C, #FE4A2F);
     padding: 10px 20px;
     border-radius: 20px;
+}
+.about-area{
+    background-image: url(images/shapes/about.png);
 }
