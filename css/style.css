@@ -1,0 +1,26 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Poppins', sans-serif;
+}
+.top-banner{
+    display: flex;
+}
+.half-width{
+    width: 50%;
+    padding: 10px 40px;
+}
+h1{
+    font-size: 65px;
+    color:#575757;
+}
+p{
+    color:#828282;
+}
+#order-button{
+    text-decoration: none;
+    color: #FFFFFF;
+    background-image: linear-gradient(#FC964C, #FE4A2F);
+    padding: 10px 20px;
+    border-radius: 20px;
+}
