@@ -16,6 +16,9 @@ section{
     display: block;
     margin: 0 auto;
 }
+span{
+    color: #FC8946;
+}
 h1{
     font-size: 40px;
     color:#575757;
@@ -65,3 +68,18 @@ p{
     color: #18191E;
     text-align: center;
 }
+footer{
+
+    background-color: #0B0E17;
+    padding: 10px 0px;
+
+}
+footer h1{
+    text-align: center;
+}
+footer p{
+    color: #FFFFFF;
+    
+element.style {
+}
+
