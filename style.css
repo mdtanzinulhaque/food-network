@@ -132,6 +132,8 @@ footer{
 }
 .location{
     margin-bottom: 70px;
+    border: 5px solid #CEEECE;
+    border-radius: 5px;
 }
 footer p{
     color: #FFFFFF;
